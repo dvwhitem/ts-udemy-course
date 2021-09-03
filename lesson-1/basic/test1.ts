@@ -5,7 +5,7 @@ let d: string[] = ['Spring', 'Boot']
 const e: any = ['Spring', 'Spring Boot', 3, 'Reactive', false]
 const f: any = 10
 
-function test(a: string):boolean | string {
+function test1(a: string):boolean | string {
     return true
 }
 
